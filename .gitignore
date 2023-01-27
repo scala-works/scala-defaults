@@ -33,7 +33,7 @@ out/
 .metals/
 .bloop/
 .ammonite/
-metals.sbt
+project/**/metals.sbt
 
 # sbt
 target/
