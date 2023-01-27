@@ -51,8 +51,9 @@ project/plugins/project/
 out/
 
 # Scala
-.bsp/
 .scala-build/
+*.class
+*.log
 
 # Misc
 .env
